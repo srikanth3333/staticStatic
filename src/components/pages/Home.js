@@ -6,8 +6,8 @@ function Home() {
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-lg-6">
-                            <h1 className="color-primary">Sky-rocketed Revenues with Ordering  Apps/Websites​</h1>
-                            <p className="banner-text">Your Business + Online App = High Profits <br /> We Build Superior Online Applications to help your business grow.</p>
+                            <h1 className="color-primary">Rocket your revenue with ordering Apps/Website</h1>
+                            <p className="banner-text">We know how people struggle to take business online <br /> We built a hoity-toity online application solution which you can start selling from the same day of store registration. <br /> Your offline business can bring to Online to make High Profits</p>
                             <button className="btn btn-danger">Request Demo</button>
                         </div>
                         <div className="col-lg-6">
@@ -20,7 +20,7 @@ function Home() {
             <section className="developing">
                 <div className="container">
                     <div className="text-center main-text">
-                        <h2 className="color-primary">Developing On-Demand Applications for Businesses to sell online, find new customers and make profits!</h2>
+                        <h2 className="color-primary">Developed Readymade Ordering Apps for Your Businesses to sell online, find new customers worldwide and make profits</h2>
                     </div>
                     <div className="row justify-content-center flip-box-pad">
                         <div className="col-lg-3">
@@ -28,10 +28,10 @@ function Home() {
                                 <div className="flip-box-inner">
                                     <div className="flip-box-front">
                                         <img src="https://phygital24.com/wp-content/uploads/2021/08/ordering-app-Meat-300x173.png" alt="Paris" className="img-fluid" />
-                                        <h3>Meat Store</h3>
+                                        <h3>Get started</h3>
                                     </div>
                                     <div className="flip-box-back">
-                                        <p>Own Your Market with an App of your Own. Get an App to Your Restaurant and acquire permanent customers</p>
+                                        <p>Grab the market with your own online applications for your Products store and acquire permanent customers.</p>
                                     </div>
                                 </div>
                             </div>
@@ -41,10 +41,10 @@ function Home() {
                                 <div className="flip-box-inner">
                                     <div className="flip-box-front">
                                         <img src="https://phygital24.com/wp-content/uploads/2021/08/ordering-app-grocery-300x173.png" alt="Paris" className="img-fluid" />
-                                        <h3>Meat Store</h3>
+                                        <h3>Get started</h3>
                                     </div>
                                     <div className="flip-box-back">
-                                        <p>Own Your Market with an App of your Own. Get an App to Your Restaurant and acquire permanent customers</p>
+                                        <p>Grab the market with your own online applications for your Products store and acquire permanent customers.</p>
                                     </div>
                                 </div>
                             </div>
@@ -54,10 +54,10 @@ function Home() {
                                 <div className="flip-box-inner">
                                     <div className="flip-box-front">
                                         <img src="https://phygital24.com/wp-content/uploads/2021/08/ordering-app-Meat-300x173.png" alt="Paris" className="img-fluid" />
-                                        <h3>Meat Store</h3>
+                                        <h3>Get started</h3>
                                     </div>
                                     <div className="flip-box-back">
-                                        <p>Own Your Market with an App of your Own. Get an App to Your Restaurant and acquire permanent customers</p>
+                                        <p>Grab the market with your own online applications for your Products store and acquire permanent customers.</p>
                                     </div>
                                 </div>
                             </div>
@@ -74,58 +74,89 @@ function Home() {
                         <div className="col-lg-3">
                             <img src="https://phygital24.com/wp-content/uploads/2021/07/8550f82c-1c4a-4f3f-b893-5eb8879dee38-300x300.png" className="img-item" alt="" />
                             <p className="title">Your Own App</p>
-                            <p className="text">Get more loyal customers by getting your own mobile app and letting them buy directly from it.</p>
+                            <p className="text">Grab more loyal customers worldwide by having your own mobile app and letting them buy directly from it.</p>
                         </div>
                         <div className="col-lg-3">
                             <img src="https://phygital24.com/wp-content/uploads/2021/07/8550f82c-1c4a-4f3f-b893-5eb8879dee38-300x300.png" className="img-item" alt="" />
-                            <p className="title">Your Own App</p>
-                            <p className="text">Get more loyal customers by getting your own mobile app and letting them buy directly from it.</p>
+                            <p className="title">Online Payments / COD</p>
+                            <p className="text">Provide the flexibility to choose from multiple payment gateways or cash on delivery & process online transactions with ease.</p>
                         </div>
                         <div className="col-lg-3">
                             <img src="https://phygital24.com/wp-content/uploads/2021/07/8550f82c-1c4a-4f3f-b893-5eb8879dee38-300x300.png" className="img-item" alt="" />
-                            <p className="title">Your Own App</p>
-                            <p className="text">Get more loyal customers by getting your own mobile app and letting them buy directly from it.</p>
+                            <p className="title">Instant reports</p>
+                            <p className="text">Know what works the best for you with the data in hand. Your day, month, all-time instant order summary helps you to measure what is getting you maximum business.</p>
                         </div>
                         <div className="col-lg-3">
                             <img src="https://phygital24.com/wp-content/uploads/2021/07/8550f82c-1c4a-4f3f-b893-5eb8879dee38-300x300.png" className="img-item" alt="" />
-                            <p className="title">Your Own App</p>
-                            <p className="text">Get more loyal customers by getting your own mobile app and letting them buy directly from it.</p>
+                            <p className="title">Customizable Landing Pages</p>
+                            <p className="text">We have made customizable/personalize the landing page that will attract more online customers. Add Banners, change themes or modify the layout to suit your store/business.</p>
                         </div>
                         
                     </div>
                     <div className="row mt-5">
                         <div className="col-lg-3">
                             <img src="https://phygital24.com/wp-content/uploads/2021/07/8550f82c-1c4a-4f3f-b893-5eb8879dee38-300x300.png" className="img-item" alt="" />
-                            <p className="title">Your Own App</p>
+                            <p className="title">Marketing Tools</p>
+                            <p className="text">Attempt to attract maximum attention to your business by offering deals, promotions, happy hours etc.</p>
+                        </div>
+                        <div className="col-lg-3">
+                            <img src="https://phygital24.com/wp-content/uploads/2021/07/8550f82c-1c4a-4f3f-b893-5eb8879dee38-300x300.png" className="img-item" alt="" />
+                            <p className="title">Manage Promotions</p>
                             <p className="text">Get more loyal customers by getting your own mobile app and letting them buy directly from it.</p>
                         </div>
                         <div className="col-lg-3">
                             <img src="https://phygital24.com/wp-content/uploads/2021/07/8550f82c-1c4a-4f3f-b893-5eb8879dee38-300x300.png" className="img-item" alt="" />
-                            <p className="title">Your Own App</p>
-                            <p className="text">Get more loyal customers by getting your own mobile app and letting them buy directly from it.</p>
+                            <p className="title">WhatsApp Chat Support / Message / Call</p>
+                            <p className="text">Resolve Customer Queries faster through call/chat support integrations </p>
                         </div>
                         <div className="col-lg-3">
                             <img src="https://phygital24.com/wp-content/uploads/2021/07/8550f82c-1c4a-4f3f-b893-5eb8879dee38-300x300.png" className="img-item" alt="" />
-                            <p className="title">Your Own App</p>
-                            <p className="text">Get more loyal customers by getting your own mobile app and letting them buy directly from it.</p>
+                            <p className="title">POS Integration</p>
+                            <p className="text">Integrate and track sales, cash flow, and food inventory automatically through Point Of Sale (POS) integration</p>
+                        </div>
+                    </div>
+                    <div className="row mt-5">
+                        <div className="col-lg-3">
+                            <img src="https://phygital24.com/wp-content/uploads/2021/07/8550f82c-1c4a-4f3f-b893-5eb8879dee38-300x300.png" className="img-item" alt="" />
+                            <p className="title">Delivery Integration</p>
+                            <p className="text">Integrate your delivery solution partner applications with our app.</p>
                         </div>
                         <div className="col-lg-3">
                             <img src="https://phygital24.com/wp-content/uploads/2021/07/8550f82c-1c4a-4f3f-b893-5eb8879dee38-300x300.png" className="img-item" alt="" />
-                            <p className="title">Your Own App</p>
-                            <p className="text">Get more loyal customers by getting your own mobile app and letting them buy directly from it.</p>
+                            <p className="title">Multi - Vendor Support</p>
+                            <p className="text">Whether you are a single vendor or a multi-vendor that works through a network of sellers and buyers.</p>
                         </div>
-                        
+                        <div className="col-lg-3">
+                            <img src="https://phygital24.com/wp-content/uploads/2021/07/8550f82c-1c4a-4f3f-b893-5eb8879dee38-300x300.png" className="img-item" alt="" />
+                            <p className="title">Order Scheduling</p>
+                            <p className="text">Customers can order now and schedule their store pick-up or delivery for a later date.</p>
+                        </div>
+                        <div className="col-lg-3">
+                            <img src="https://phygital24.com/wp-content/uploads/2021/07/8550f82c-1c4a-4f3f-b893-5eb8879dee38-300x300.png" className="img-item" alt="" />
+                            <p className="title">Pre-Loaded Catalogs</p>
+                            <p className="text">This feature saves your time by eliminating the need to manually enter data.</p>
+                        </div>
+                        <div className="col-lg-3">
+                            <img src="https://phygital24.com/wp-content/uploads/2021/07/8550f82c-1c4a-4f3f-b893-5eb8879dee38-300x300.png" className="img-item" alt="" />
+                            <p className="title">Hide/Unhide Items and Inventory</p>
+                            <p className="text">You can hide/unhide the products from store view or you can make stock availability on your store/business view </p>
+                        </div>
+                        <div className="col-lg-3">
+                            <img src="https://phygital24.com/wp-content/uploads/2021/07/8550f82c-1c4a-4f3f-b893-5eb8879dee38-300x300.png" className="img-item" alt="" />
+                            <p className="title">Inventory Management</p>
+                            <p className="text">Get notifications/reminders when your stock is about to empty. This helps you to avoid plenty of stock to maintain at godowns and block your investments on stock</p>
+                        </div>
                     </div>
                 </div>
             </section>
             <section className="partner">
                 <div className="container">
                     <div className="text-center">
-                        <h2 className="custom-h2">Why Partner with Website?</h2>
+                        <h2 className="custom-h2">Why you should go with LekkaPakka by infocomX</h2>
                     </div>
                     <div className="row my-5 align-items-center justify-content-center">
                         <div className="col-lg-4">
-                            <p className="custom-text">Start <span className="color-primary">Selling</span>  with Your Own App and Ordering System. Find New Customers Online And Build A Loyal Customer Base!</p>
+                            <p className="custom-text">Start <span className="color-primary">Selling</span>  on your own online applications without hassle free from the same day of store signup.</p>
                         </div>
                         <div className="col-lg-5">
                             <img src="https://phygital24.com/wp-content/uploads/2021/07/Copy-of-Copy-of-Website-Pages.gif" className="img-fluid" alt="" />
@@ -142,7 +173,7 @@ function Home() {
                     </div>
                     <div className="row my-5 align-items-center justify-content-center">
                         <div className="col-lg-4">
-                            <p className="custom-text">Start <span className="color-primary">Selling</span>  with Your Own App and Ordering System. Find New Customers Online And Build A Loyal Customer Base!</p>
+                            <p className="custom-text">Build your own brand and acquire permanent customers world wide.</p>
                         </div>
                         <div className="col-lg-5">
                             <img src="https://phygital24.com/wp-content/uploads/2021/07/Copy-of-Copy-of-Website-Pages.gif" className="img-fluid" alt="" />
@@ -154,15 +185,41 @@ function Home() {
                             <img src="https://phygital24.com/wp-content/uploads/2021/07/Copy-of-Copy-of-Website-Pages.gif" className="img-fluid" alt="" />
                         </div>
                         <div className="col-lg-4">
-                            <p className="custom-text">Start <span className="color-primary">Selling</span>  with Your Own App and Ordering System. Find New Customers Online And Build A Loyal Customer Base!</p>
+                            <p className="custom-text">You can use plenty of solutions for your business with lowest operational cost for your online applications.</p>
                         </div>
                     </div>
                     <div className="row my-5 align-items-center justify-content-center">
                         <div className="col-lg-4">
-                            <p className="custom-text">Start <span className="color-primary">Selling</span>  with Your Own App and Ordering System. Find New Customers Online And Build A Loyal Customer Base!</p>
+                            <p className="custom-text">We keep bringing plenty of solutions in application to make application friendly and to boost your business ideas.</p>
                         </div>
                         <div className="col-lg-5">
                             <img src="https://phygital24.com/wp-content/uploads/2021/07/Copy-of-Copy-of-Website-Pages.gif" className="img-fluid" alt="" />
+                        </div>
+                    </div>
+                    <div className="row my-5 align-items-center justify-content-center">
+                        
+                        <div className="col-lg-5">
+                            <img src="https://phygital24.com/wp-content/uploads/2021/07/Copy-of-Copy-of-Website-Pages.gif" className="img-fluid" alt="" />
+                        </div>
+                        <div className="col-lg-4">
+                            <p className="custom-text">You can define your own promo codes, categorized products, product wise ratings, customer relationship, different delivery solutions and user friendly application for your business to avoid complicates while placing orders by customers</p>
+                        </div>
+                    </div>
+                    <div className="row my-5 align-items-center justify-content-center">
+                        <div className="col-lg-4">
+                            <p className="custom-text">Avoid commission payments for the orders you're getting, lets not eat a chunk of your profits by aggregators.</p>
+                        </div>
+                        <div className="col-lg-5">
+                            <img src="https://phygital24.com/wp-content/uploads/2021/07/Copy-of-Copy-of-Website-Pages.gif" className="img-fluid" alt="" />
+                        </div>
+                    </div>
+                    <div className="row my-5 align-items-center justify-content-center">
+                        
+                        <div className="col-lg-5">
+                            <img src="https://phygital24.com/wp-content/uploads/2021/07/Copy-of-Copy-of-Website-Pages.gif" className="img-fluid" alt="" />
+                        </div>
+                        <div className="col-lg-4">
+                            <p className="custom-text">Own your online applications for your business with the cheapest one time cost that you spent</p>
                         </div>
                     </div>
                 </div>
@@ -171,8 +228,8 @@ function Home() {
                 <div className="container">
                     <div className="row justify-content-center align-items-center">
                         <div className="col-lg-6">
-                            <h3 className="business-title">Launch Your Business Online. Ask Us How?</h3>
-                            <p className="business-text">Get Started With Your Own E-Commerce Application in just 3 days</p>
+                            <h3 className="business-title">Launch Your Business/Store Online…! We already have solution for you…! Ask Us How????</h3>
+                            <p className="business-text">Get started selling on your own app in just 15min.</p>
                             <button className="btn btn-secondary">Get Started</button>
                         </div>
                         <div className="col-lg-4">

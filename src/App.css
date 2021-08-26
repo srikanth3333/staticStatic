@@ -176,8 +176,9 @@ p {
 }
 
 .business-title {
-  font-size: 3em;
+  font-size: 2.5em;
   color: #fff;
+  margin-top: 0px;
 }
 
 .business-text {
