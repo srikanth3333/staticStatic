@@ -10,6 +10,10 @@ import OtherServices from './components/pages/OtherServices';
 import Contact from './components/pages/Contact';
 import Navbar from './components/includes/Navbar'
 import Footer from './components/includes/Footer';
+import Price from './components/pages/Price';
+import OtherPrice from './components/pages/OtherPrice';
+import Blogs from './components/pages/Blogs';
+import BlogDetail from './components/pages/BlogDetail';
 
 function App() {
   return (
@@ -27,6 +31,18 @@ function App() {
             </Route>
             <Route exact path="/otherServices">
               <OtherServices />
+            </Route>
+            <Route exact path="/price">
+              <Price />
+            </Route>
+            <Route exact path="/otherprice">
+              <OtherPrice />
+            </Route>
+            <Route exact path="/blog">
+              <Blogs />
+            </Route>
+            <Route exact path="/blogDetail">
+              <BlogDetail />
             </Route>
           </Switch>
         <Footer />
