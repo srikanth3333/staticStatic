@@ -15,11 +15,12 @@ secondary #011640
 /*Globals*/
 .btn-danger, .btn-secondary, .btn-warning, .btn-success {
   font-weight: 500;
-  background-color: #c70039;
+  background-color: #00cdcd;
   border-radius: 58px 58px 58px 58px;
   padding: 10px 30px;
   letter-spacing: 0.6px;
   font-size: 16px;
+  border: 1px solid #00cdcd !important;
 }
 
 .form-group {
@@ -34,12 +35,13 @@ label {
 }
 .btn-secondary {
   background-color: #fff ;
-  color: #c70039;
-  border: 0px;
+  color: #00cdcd;
+  border: 1px solid #00cdcd;
+  
 }
 
 .color-primary {
-  color: #c70039;
+  color: #00cdcd;
   margin-bottom: 0.4em;
   line-height: 48px;
 }
@@ -71,6 +73,7 @@ p {
 .navbar {
   padding: 1.5em 0em;
   font-family: 'Didact Gothic', sans-serif;
+  background-color: #00cdcd;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -78,18 +81,18 @@ p {
   font-size: 16px;
   font-weight: 700;
   text-transform: capitalize;
-  color: #000;
+  color: #fff;
   margin-right: 1.5em;
 }
 
 .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
-  color: #ff5988;
-  border-bottom: 3.5px solid #ff5988;
+  color: #fff;
+  border-bottom: 3.5px solid #fff;
 }
 
 .navbar-light .navbar-nav .nav-link:hover {
-  color: #ff5988;
-  border-bottom: 3.5px solid #ff5988;
+  color: #fff;
+  border-bottom: 3.5px solid #fff;
 }
 
 /*Banner*/
@@ -139,7 +142,7 @@ p {
 }
 
 .flip-box-back {
-  background-color: #c70039;
+  background-color: #00cdcd;
   border-radius: 5px;
   color: white;
   transform: rotateX(180deg);
@@ -171,7 +174,7 @@ p {
 
 /*business*/
 .business {
-  background-color: #c70039;
+  background-color: #00cdcd;
   padding: 1em 0em;
 }
 
@@ -214,7 +217,7 @@ p {
 
 /*Footer*/
 .footer {
-  background-color: #c70039;
+  background-color: #00cdcd;
   color: #fff;
 }
 .footer-title {
@@ -340,4 +343,157 @@ p {
 .dropdown:hover .dropdown-menu {
   display: block;
   margin-top: 0; 
+}
+
+.main_home {
+  /* background-color: #00cdcd; */
+  background-image: url('/src/components/pages/img/banner.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:  center;
+  height:90vh;
+  display: flex;
+  align-items: center;
+}
+
+.main_home h1 {
+  font-size: 4.6em;
+  color: #fff;
+}
+
+.main_home .sub_text {
+  font-size: 1.2em;
+  color: #fff;
+}
+
+.fea {
+  padding: 6em 10em;
+}
+.fea .img-icon {
+  height:120px;
+  object-fit: contain;
+  margin: 1em 0em;
+}
+
+.fea .card {
+  border-radius: 0px;
+  border: 0px;
+}
+
+.fea .card-body {
+  background-color: #00cdcd !important;
+  color: #fff;
+  padding: 2em;
+}
+
+.fea .card__h {
+  font-size: 1.5em;
+}
+
+.work {
+  background-image: url('https://fox-landing-page.netlify.app/assets/img/gray-bg.jpg');
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.work__icon {
+  height: 80px !important;
+  object-fit: contain;
+}
+
+.work__h {
+  font-size: 2.4em;
+}
+
+.vide__h {
+  font-size: 4em;
+  font-weight: 600;
+}
+
+.primary__color{
+  color: #00cdcd;
+}
+
+
+.center__p {
+  width: 70%;
+  margin: 2em auto;
+}
+
+.app_fea {
+  background-image: url('https://fox-landing-page.netlify.app/assets/img/gray-bg.jpg');
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.facts {
+  background-color: #00cdcd;
+}
+
+
+.fun_h  {
+  font-size: 4em;
+  font-weight: 600;
+  color: #303952;
+}
+
+.facts .card {
+  border-radius: 28px;
+  padding: 0em;
+}
+
+.facts__icon {
+  height:80px;
+  object-fit: contain;
+  margin: 1em 0;
+}
+
+.facts_head {
+  font-size: 4em;
+  font-weight: 600;
+  color: #00cdcd;
+}
+
+
+.facts_p {
+  font-size: 1.7em;
+  color: #00cdcd;
+}
+
+.trail_btn {
+  padding: 0.9em 2em;
+  border-radius: 30px;
+  background-color: #00cdcd;
+  border: 0px;
+  color: #fff;
+  font-size: 1em;
+  margin: 0.6em 0em;
+}
+
+.trail {
+  background-image: url('https://fox-landing-page.netlify.app/assets/img/gray-bg.jpg');
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 1em;
+}
+
+.touch .form-control {
+  border: 0px;
+  border-bottom: 2px solid #00cdcd;
+  background-color: transparent;
+  box-shadow: none !important;
+}
+
+.touch .form-group {
+  margin: 1em 0em;
+}
+
+.btn-color-primary {
+  background-color: #00cdcd;
+  color: #fff;
+  padding: 10px 30px;
+  border-radius: 23px;
 }

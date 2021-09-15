@@ -4,9 +4,9 @@ import {Link,NavLink} from 'react-router-dom'
 function Navbar() {
     return (
         <>
-          <nav className="navbar navbar-expand-lg navbar-light position-sticky">
-            <div className="container-fluid">
-                <a className="navbar-brand" href="#">Website</a>
+          <nav className="navbar navbar-expand-lg navbar-light">
+            <div className="container">
+                <a className="navbar-brand text-white" href="#"><b>Website</b></a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
                 </button>
@@ -46,7 +46,7 @@ function Navbar() {
                     </ul>
                 </div>
                 <div>
-                    <button className="btn btn-danger">Get Started</button>
+                    <button className="btn btn-secondary">Get Started</button>
                 </div>
             </div>
         </nav>  

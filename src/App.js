@@ -5,6 +5,7 @@ import {
   Route
 } from "react-router-dom";
 import Home from './components/pages/Home';
+import MainHome from './components/pages/MainHome';
 import Services from './components/pages/Services';
 import OtherServices from './components/pages/OtherServices';
 import Contact from './components/pages/Contact';
@@ -14,6 +15,7 @@ import Price from './components/pages/Price';
 import OtherPrice from './components/pages/OtherPrice';
 import Blogs from './components/pages/Blogs';
 import BlogDetail from './components/pages/BlogDetail';
+import PageNotFound from './components/pages/PageNotFound';
 
 function App() {
   return (
@@ -21,7 +23,7 @@ function App() {
         <Navbar />
           <Switch>
             <Route exact path="/">
-              <Home />
+              <MainHome />
             </Route>
             <Route exact path="/contact-us">
               <Contact />
@@ -41,8 +43,14 @@ function App() {
             <Route exact path="/blog">
               <Blogs />
             </Route>
-            <Route exact path="/blogDetail">
+            <Route exact path="/blogDetail/:id">
               <BlogDetail />
+            </Route>
+            <Route exact path="/infinix">
+              <Home />
+            </Route>
+              <Route exact  path="*">
+              <PageNotFound />
             </Route>
           </Switch>
         <Footer />
