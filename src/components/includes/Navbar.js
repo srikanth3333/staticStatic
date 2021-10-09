@@ -20,8 +20,9 @@ function Navbar() {
                                 Solutions
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li><Link class="dropdown-item" to="/services">Services</Link></li>
-                                <li><Link class="dropdown-item" to="/otherServices">Services 2</Link></li>
+                                <li><Link class="dropdown-item" to="/services">Products</Link></li>
+                                <li><Link class="dropdown-item" to="/otherServices">Services</Link></li>
+                                <li><Link class="dropdown-item" to="/otherServices">Customized</Link></li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">

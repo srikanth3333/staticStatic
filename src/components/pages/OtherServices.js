@@ -7,8 +7,8 @@ function OtherServices() {
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-lg-6">
-                            <h1 className="text-success">A Grocery Ordering App for Your Grocery Store </h1>
-                            <p className="banner-text">Get Freedom from Commissions, Build Your Own Customers with Your Own Ordering App</p>
+                            <h1 className="text-success">For Your Grocery Store, a Grocery Ordering App </h1>
+                            <p className="banner-text">Get rid of commissions by creating your own ordering app and building your own customer base.</p>
                             <button className="btn text-white btn-success">Request Demo</button>
                         </div>
                         <div className="col-lg-6">
@@ -20,7 +20,7 @@ function OtherServices() {
             <section className="developing">
                 <div className="container">
                     <div className="text-center main-text">
-                        <h2 className="text-success">We Provide a Food Delivery App/Ordering System for Restaurant Owners</h2>
+                        <h2 className="text-success">For restaurant owners, we provide a food delivery app/ordering system.</h2>
                     </div>
                     <div className="row justify-content-center flip-box-pad">
                         <div className="col-lg-3">
@@ -68,8 +68,8 @@ function OtherServices() {
                 <div className="container">
                     <div className="row justify-content-center align-items-center">
                         <div className="col-lg-6">
-                            <h3 className="business-title">Boost Your Restaurant Sales with Our Powerful E-Commerce Solution</h3>
-                            <p className="text-white">It’s time to own a Web & Mobile Ordering System as third party apps —many of which withhold data—interfere with the direct relationship between a restaurant and its customers, thereby charging high commission</p>
+                            <h3 className="business-title">Our E-Commerce Solution Can Help You Increase Restaurant Sales</h3>
+                            <p className="text-white">Third-party apps—many of which conceal data—interfere with the direct contact between a restaurant and its customers, resulting in expensive commissions. It's time to own a Web & Mobile Ordering System.</p>
                             <button className="btn btn-secondary">Get Started</button>
                         </div>
                         <div className="col-lg-6">
@@ -81,13 +81,13 @@ function OtherServices() {
             <section className="ecommerce gro-ecom">
                 <div className="container">
                     <div className="text-center mb-5">
-                        <h2 className="text-success">Key Features Of Our Grocery App</h2>
+                        <h2 className="text-success">Our Grocery App's Highlights</h2>
                     </div>
                     <div className="row text-center justify-content-center">
                         <div className="col-lg-3">
                             <img src="https://phygital24.com/wp-content/uploads/2021/07/icons-grocery-landing-page-3-300x251.png" className="img-item" alt="" />
-                            <p className="title">Your Own App</p>
-                            <p className="text">Grab more loyal customers worldwide by having your own mobile app and letting them buy directly from it.</p>
+                            <p className="title">Create Your Own App</p>
+                            <p className="text">Having your own mobile app and allowing clients to purchase straight from it can help you get more loyal customers across the world.</p>
                         </div>
                         <div className="col-lg-1"></div>
                         <div className="col-lg-3">

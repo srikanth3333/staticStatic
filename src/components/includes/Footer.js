@@ -1,4 +1,7 @@
 
+import soc1 from '../pages/img/int.png'
+import soc2 from '../pages/img/lkdn.png'
+import soc3 from '../pages/img/fb.png'
 
 function Footer() {
     return (
@@ -55,10 +58,9 @@ function Footer() {
                             <p className="mb-0">info@website.com</p>
                         </div>
                         <div className="col-lg-4 text-center">
-                            <img src="https://image.flaticon.com/icons/png/512/174/174848.png" alt="" className="icon-social-media" />
-                            <img src="https://image.flaticon.com/icons/png/512/174/174848.png" alt="" className="icon-social-media" />
-                            <img src="https://image.flaticon.com/icons/png/512/174/174848.png" alt="" className="icon-social-media" />
-                            <img src="https://image.flaticon.com/icons/png/512/174/174848.png" alt="" className="icon-social-media" />
+                            <img src={soc1} alt="" className="icon-social-media" />
+                            <img src={soc2} alt="" className="icon-social-media" />
+                            <img src={soc3} alt="" className="icon-social-media" />
                         </div>
                     </div>
                 </div>
