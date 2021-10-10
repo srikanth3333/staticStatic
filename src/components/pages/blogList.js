@@ -138,5 +138,70 @@ export const blogList = [
             },
         ]
         
+    },
+    {
+        id:5,
+        title:`How to Build the Perfect Supermarket App | A Beginner's Guide`,
+        subTitle:'Some may say that Supermarket Apps are the future of grocery shopping. Supermarkets like Reliance, Walmart, and Munafa mart have all invested in Supermarket Apps to make it easier for their customers to order groceries from their smartphones or tablets. But what is a Supermarket App? And how do you build one? This guide will take you through everything you need to know about creating an app like these big companies!',
+        mainContent: [
+            {
+                // imgTitle:'Your menu should be more straightforward:',
+                imgText:'As we all know, there are several types of apps available today on the market. However, none of them has been able to shake the dominance of the well-known Android and IOS mobile application platform. For this reason, many entrepreneurs and businessmen are trying their best to learn how to build a supermarket app from scratch. Needless to say, there are a lot of challenges involved when you want to develop an app for mobile devices. Therefore, if you’re building a grocery delivery app from scratch, you must consider certain things.',
+                img:'https://phygital24.com/wp-content/uploads/2021/10/creat-supermarket-app-phygital24-1-1024x576.jpg',
+                order: 1,
+            },
+            {
+                imgTitle:'– Create a good business plan.',
+                imgText:'Before you start developing an app, you must sketch out a good business plan. With a well-developed business plan, you will be able to determine the exact purpose of your app, as well as the resources you will need to get started with.',
+                img:'https://phygital24.com/wp-content/uploads/2021/10/creat-supermarket-app-phygital24-2-1024x576.jpg',
+                order: 2,
+            },
+            {
+                imgTitle:'– Know and understand your target market.',
+                imgText:'Supermarket app developers usually target customers who are searching for local grocery stores. If your app is going to address the needs of a wider audience, you should consider including options for users from different parts of the world.',
+                img:'https://phygital24.com/wp-content/uploads/2021/10/creat-supermarket-app-phygital24-3-1024x576.jpg',
+                order: 1,
+            },
+            {
+                imgTitle:'– Choose a mobile development company that has experience in developing mobile applications.',
+                imgText:'Your chosen mobile application developer should be familiar with different platform options such as Android and iPhones. They should also have set a series of successful mobile applications and handle a large number of projects.',
+                img:'https://phygital24.com/wp-content/uploads/2021/10/Top-Grocery-app-development-company-phygital24-4-1024x576.png',
+                order: 2,
+            },
+        ]
+        
+    },
+    {
+        id:6,
+        title:`Eliminate Your Fears And Doubts About Grocery App Development With These 5 Things!`,
+        subTitle:'You’re not alone. Grocery app development sounds like a daunting task, and it’s hard to believe that anyone can do it. The grocery business is tricky, so you want to be the one who wins the prize. Grocery apps are changing the way we shop, and they will continue to change as technology progresses. Grocery stores need to take advantage of these changes if they want their customers shopping with them instead of at home or on their phones. Let’s discuss how we can all eliminate our fears and doubts about grocery app development!',
+        mainContent: [
+            {
+                imgTitle:'Grocery app development is too complicated:',
+                imgText:'Grocery stores and companies need to recognize that they can’t do it all on their own. Grocery apps are like every other app; you don’t build them yourself unless you have a development company or someone who knows how to code very well! Grocery stores need to find a developer who has the right experience. Grocery store owners and managers can contact development companies directly, or they could ask for recommendations from other grocery app developers in their area.',
+                img:'https://phygital24.com/wp-content/uploads/2021/10/Doubts-About-Grocery-App-Development-phygital24-1-1024x576.jpg',
+                order: 1,
+            },
+            {
+                imgTitle:'– Create a good business plan.',
+                imgText:'Before you start developing an app, you must sketch out a good business plan. With a well-developed business plan, you will be able to determine the exact purpose of your app, as well as the resources you will need to get started with.',
+                img:'https://phygital24.com/wp-content/uploads/2021/10/creat-supermarket-app-phygital24-2-1024x576.jpg',
+                order: 2,
+            },
+            {
+                imgTitle:'– Know and understand your target market.',
+                imgText:'Supermarket app developers usually target customers who are searching for local grocery stores. If your app is going to address the needs of a wider audience, you should consider including options for users from different parts of the world.',
+                img:'https://phygital24.com/wp-content/uploads/2021/10/creat-supermarket-app-phygital24-3-1024x576.jpg',
+                order: 1,
+            },
+            {
+                imgTitle:'– Choose a mobile development company that has experience in developing mobile applications.',
+                imgText:'Your chosen mobile application developer should be familiar with different platform options such as Android and iPhones. They should also have set a series of successful mobile applications and handle a large number of projects.',
+                img:'https://phygital24.com/wp-content/uploads/2021/10/Top-Grocery-app-development-company-phygital24-4-1024x576.png',
+                order: 2,
+            },
+        ]
+        
     }
+
 ]
